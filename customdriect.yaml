@@ -7,10 +7,10 @@ payload:
   - DOMAIN-SUFFIX,breadio.wiki
   # - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,arrowheadgs.com
-  - DOMAIN-SUFFIX,playfabapi.com
+  #- DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-KEYWORD,helldivers
+  #- DOMAIN-KEYWORD,helldivers
   - DOMAIN-SUFFIX,nexusmods.com
   - DST-PORT,3478
   - DST-PORT,4379
