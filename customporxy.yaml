@@ -5,6 +5,7 @@
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,jp
   - DOMAIN,api5-pc.so-net.tw
+  - DOMAIN,spaceship.com
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
