@@ -6,6 +6,7 @@
   - DOMAIN-SUFFIX,jp
   - DOMAIN,api5-pc.so-net.tw
   - DOMAIN-SUFFIX,spaceship
+  - DOMAIN-SUFFIX,iflow.work
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
