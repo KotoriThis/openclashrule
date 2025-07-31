@@ -1,6 +1,6 @@
  payload:
  #自定义的
-  - DOMAIN-SUFFIX,mikanime.tv
+ #- DOMAIN-SUFFIX,mikanime.tv
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,jp
