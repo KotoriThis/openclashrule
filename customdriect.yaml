@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   #- DOMAIN-KEYWORD,helldivers
   - DOMAIN-SUFFIX,nexusmods.com
-  - DOMAIN-SUFFIX,ea.com
+  #- DOMAIN-SUFFIX,ea.com
   - DST-PORT,3478
   - DST-PORT,4379
   - DST-PORT,4380
