@@ -13,6 +13,7 @@ payload:
   #- DOMAIN-KEYWORD,helldivers
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,epicgames.dev
   - DST-PORT,3478
   - DST-PORT,4379
   - DST-PORT,4380
