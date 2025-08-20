@@ -12,6 +12,7 @@
   - DOMAIN-SUFFIX,hembed.com
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,windy.com
+  - DOMAIN-SUFFIX,adjust.com
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
