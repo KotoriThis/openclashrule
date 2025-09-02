@@ -14,6 +14,7 @@
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,moezone.dev
   - DOMAIN-SUFFIX,jigenw.com
+  - DOMAIN,cdn.jsdelivr.net
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
