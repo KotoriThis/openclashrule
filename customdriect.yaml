@@ -1,6 +1,7 @@
 payload:
  #自定义的
   - DOMAIN-SUFFIX,mikanime.tv
+  - DOMAIN-SUFFIX,mikanime.tv1
   - DOMAIN-SUFFIX,1panelproxy.com
   - DOMAIN-SUFFIX,acgrip.com
   - DOMAIN-SUFFIX,nvidia.com
