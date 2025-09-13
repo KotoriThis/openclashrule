@@ -16,6 +16,7 @@
   - DOMAIN-SUFFIX,jigenw.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN-KEYWORD,hacg
+  - DOMAIN-SUFFIX,sda1.dev
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
