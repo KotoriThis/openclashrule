@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,m-team
   - DST-PORT,3478
   - DST-PORT,4379
   - DST-PORT,4380
