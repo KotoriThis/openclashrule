@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,iflow.work
   - DOMAIN-SUFFIX,pcrdfans.com
   - DOMAIN,dash.cloudflare.com
-  - DOMAIN-SUFFIX,hembed.com
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,moezone.dev
   - DOMAIN-SUFFIX,jigenw.com
