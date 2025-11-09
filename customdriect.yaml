@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,crabpt
+  - DOMAIN-SUFFIX,jd.com
   - DST-PORT,3478
   - DST-PORT,4379
   - DST-PORT,4380
