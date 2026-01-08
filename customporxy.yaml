@@ -24,6 +24,7 @@ payload:
   - DOMAIN-KEYWORD,hembed
   - DOMAIN-unity.bepinex.dev
   - DOMAIN-SUFFIX,illgames.jp
+  - DOMAIN,togetherweserved.com
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
