@@ -31,6 +31,7 @@ payload:
   - DOMAIN,fonts.googleapis.com
   - DOMAIN-SUFFIX,hdhive.com
   - DOMAIN-SUFFIX,gate.com
+  - DOMAIN-SUFFIX,east-plus.net
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
