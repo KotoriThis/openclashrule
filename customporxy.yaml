@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,gate.com
   - DOMAIN-SUFFIX,east-plus.net
   - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN-SUFFIX,postimg.cc
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
