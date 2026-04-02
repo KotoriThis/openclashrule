@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,o--o.xyz
   - DOMAIN,img.m-team.cc
+  - DOMAIN,static.m-team.cc
   - DOMAIN-KEYWORD,hembed
   - DOMAIN-unity.bepinex.dev
   - DOMAIN-SUFFIX,illgames.jp
