@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,postimg.cc
   - DOMAIN-KEYWORD,jmapiproxy
   - DOMAIN-SUFFIX,flingtrainer.com
+  - DOMAIN-SUFFIX,crabpt.vip
  #模板内应该代理的
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
