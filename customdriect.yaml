@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,epicgames.dev
-  - DOMAIN-KEYWORD,crabpt
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN,tracker.m-team.cc
   - DST-PORT,3478
